@@ -1,7 +1,7 @@
 <h2 align="center">Nice to meet you 👋</h2>
 <h3 align="center">Hi, I'm Nehal, a passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knh-nehal&label=Profile%20views&color=0e75b6&style=flat" alt="knh-nehal" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=knh-nehal&label=Profile%20views&color=0e75b6&style=flat" alt="knh-nehal" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
