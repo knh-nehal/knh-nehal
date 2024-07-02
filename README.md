@@ -1,20 +1,34 @@
 <!-- banner -->
-<img src="https://i.ibb.co/YfdMNdg/Github-Banner.png" />
-
-<h2 align="center">Nice to meet you 👋</h2>
-<h3 align="center">Hi, I'm Nehal, a passionate frontend developer</h3>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=knh-nehal&label=Profile%20views&color=0e75b6&style=flat" alt="knh-nehal" /> </p>
+<img src="https://i.ibb.co/j3423b0/Github-Banner.png" />
+
+<!-- About Me Section -->
+
+<h2 align="left"> About Me</h2>
+<h4 align="left">Hi, I'm Nehal, a passionate Front-End Developer</h4>
+
+
 
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **nasibhossain57@gmail.com**
+-  How to reach me **nasibhossain57@gmail.com**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
+<!-- Connect with me section -->
+
+<h2 align="left">📫 Connect with me</h2>
+<div align="left">
+  <a href="https://www.facebook.com/nehal0313/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://t.me/Nehal_10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="mailto:nasibhossain57@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
