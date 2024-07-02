@@ -1,3 +1,6 @@
+<!-- banner -->
+<img src="https://i.ibb.co/YfdMNdg/Github-Banner.png" />
+
 <h2 align="center">Nice to meet you 👋</h2>
 <h3 align="center">Hi, I'm Nehal, a passionate frontend developer</h3>
 
