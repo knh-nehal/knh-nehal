@@ -1,6 +1,6 @@
 <!-- banner -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=knh-nehal&label=Profile%20views&color=0e75b6&style=flat" alt="knh-nehal" /> </p>
-<img src="https://i.ibb.co/j3423b0/Github-Banner.png" />
+<img src="https://i.ibb.co/kMv7ZCw/Github-Banner.png" />
 
 <!-- About Me Section -->
 
